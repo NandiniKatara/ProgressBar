@@ -1,0 +1,24 @@
+.main{
+    background-color: lightblue;
+}
+
+.rectangle-parent{
+    background-color: whitesmoke;
+    width: 550px;
+    height: 50px;
+    border: solid 2px;
+    border-color: black;
+    display: flex;
+}
+.rectangle-child{
+    background-color: whitesmoke;
+    width: 490px;
+    height: 40px;
+    border: solid 1px;
+    display: flex;
+    margin-left: 5px;
+    margin-top: 3px;
+    position: relative;
+    font-size: xx-large;
+
+}
