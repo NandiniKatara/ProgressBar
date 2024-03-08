@@ -1,7 +1,6 @@
 .main{
     background-color: lightblue;
 }
-
 .rectangle-parent{
     background-color: whitesmoke;
     width: 550px;
@@ -20,5 +19,4 @@
     margin-top: 3px;
     position: relative;
     font-size: xx-large;
-
 }
